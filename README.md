@@ -20,6 +20,6 @@
   - bonusové body za aktivitu
 
 ### Co jsme dělali?
-#### 1.hodina - 7.9.2020
+#### 1.hodina - 7. 9. 2020
 - úvod, organizační informace
 - úloha s házením vajíček
