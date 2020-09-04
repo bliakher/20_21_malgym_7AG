@@ -1,7 +1,7 @@
 # Informatika 7.AG - Úvod do programování
 
 ### Základní informace
-#### Žeňa Golubeva
+- Žeňa Golubeva
 - golubeva.evgenia@malgym.cz
 - kabinet 10 - pondělí
 - konzultace po domluvě - email
