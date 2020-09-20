@@ -27,3 +27,8 @@
 #### 2.hodina - 14. 9. 2020
 - binární vyhledávání
 - vývojové diagramy
+
+#### 3.hodina - 21. 9. 2020
+- řešení domácích úkolů
+- vývojové diagramy
+- základní model počítače
