@@ -32,3 +32,10 @@
 - řešení domácích úkolů
 - vývojové diagramy
 - základní model počítače
+
+#### 4. hodina - 5. 10. 2020 - OH
+- řešení domácích úkolů
+- základní model počítače
+- dvojková soustava
+
+
