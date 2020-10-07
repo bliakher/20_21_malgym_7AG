@@ -21,3 +21,11 @@
 - Pošlete mi screenshot textového editoru IDLE (měl by se nainstalovat automaticky s Pythonem).
 - V případě problémů mi pište.
 - **Deadline** 11. 10. 2020 23:59
+
+### BONUS: Placení mincemi - 4 body
+- Úkol primárně pro ty, kdo z nějakého důvodu dostali z 2. úkolu 0 bodů.
+- Mějme mince 1, 2, 5, 10, 20 a 50 korun.
+- Na vstupu dostanete částku k zaplacení menší než 100 korun. Vymyslete algoritmus, pomocí kterého zvládne robot zaplatit dannou částku mincemi. (Tj. na výstupu bude posloupnost mincí, které dohromady dávají potřebnou částku. Mince se můžou opakovat.)
+- Algoritmus sepište do vývojového diagramu.
+- Řešení mi pošlete na email.
+- **Deadline** 14. 10. 2020 23:59
