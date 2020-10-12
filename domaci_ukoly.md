@@ -29,3 +29,8 @@
 - Algoritmus sepište do vývojového diagramu.
 - Řešení mi pošlete na email.
 - **Deadline** 14. 10. 2020 23:59
+
+### 4. Prohození proměnných - 3 body
+- úkol slouží hlavně k tomu, abyste si připomněli, co jsme dělali na poslední hodině
+- úkol: Napsat program v pythonu, který načte 2 čísla z uživatelského vstupu, uloží je do proměnných a proměnné vypíše. Poté prohodí obsah proměnných (tak aby v první proměnné bylo uložené to, co bylo ve druhé a obráceně), proměnné znovu vypíše. Nestačí jen vypsat proměnné v opačném pořadí.
+- **Deadline** 25. 10. 2020 23:59
