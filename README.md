@@ -38,4 +38,8 @@
 - základní model počítače
 - dvojková soustava
 
+#### 5. hodina - 12. 10. 2020 - OH
+- python - interaktivní příkazová řádka
+- základní syntax
+- vstup a výstup
 
