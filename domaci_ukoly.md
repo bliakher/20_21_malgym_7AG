@@ -38,5 +38,5 @@
 ### 5. Dělitelnost dvěma - 4 body
 - Napište program v pythonu, který načte číslo od uživatele a vypíše, jestli je dělitelné dvěma.
 - V úloze byste měli použít podmínku (if), nejspíš se bude hodit operace % (modulo).
-- **Deadline** 1. 11. 2020 23:59
+- **Deadline** 31. 10. 2020 23:59
 
