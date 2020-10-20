@@ -34,3 +34,9 @@
 - úkol slouží hlavně k tomu, abyste si připomněli, co jsme dělali na poslední hodině
 - úkol: Napsat program v pythonu, který načte 2 čísla z uživatelského vstupu, uloží je do proměnných a proměnné vypíše. Poté prohodí obsah proměnných (tak aby v první proměnné bylo uložené to, co bylo ve druhé a obráceně), proměnné znovu vypíše. Nestačí jen vypsat proměnné v opačném pořadí.
 - **Deadline** 25. 10. 2020 23:59
+
+### 5. Dělitelnost dvěma - 4 body
+- Napište program v pythonu, který načte číslo od uživatele a vypíše, jestli je dělitelné dvěma.
+- V úloze byste měli použít podmínku (if), nejspíš se bude hodit operace % (modulo).
+- **Deadline** 1. 11. 2020 23:59
+
