@@ -43,3 +43,6 @@
 - základní syntax
 - vstup a výstup
 
+#### 6. hodina - 19. 10. 2020 - OH
+- vstup a výstup
+- podmínky - if/else
