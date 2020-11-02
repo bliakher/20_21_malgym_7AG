@@ -46,3 +46,10 @@
 #### 6. hodina - 19. 10. 2020 - OH
 - vstup a výstup
 - podmínky - if/else
+
+#### 7. hodina - 2. 11. 2020 - OH
+- řešení domácích úkolů
+- podmínky, složené podmínky
+
+
+
