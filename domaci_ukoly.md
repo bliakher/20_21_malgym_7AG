@@ -40,3 +40,9 @@
 - V úloze byste měli použít podmínku (if), nejspíš se bude hodit operace % (modulo).
 - **Deadline** 31. 10. 2020 23:59
 
+### 6. Typ trojúhelníku - 5 bodů
+- Přepište danný vývojový diagram do kódu v Pythonu.
+- Diagram na vstupu načte 3 čísla (délky stran trojúhelníku) a vypíše o jaký typ trojúhelníku se jedná (rovnostranný, rovnoramenný, obecný)
+- **Deadline** 15. 11. 2020 23:59
+
+
