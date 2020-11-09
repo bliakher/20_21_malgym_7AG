@@ -51,3 +51,9 @@
 - Např. pro vstup "5" bude výstup "5", pro "12" bude výstup "2 2 3", pro "60" bude "2 2 3 5".
 - **Deadline** 22. 11. 2020 23:59
 
+### 7. Násobky čísla - 5 bodů
+- Napište program v Pythonu, který načte číslo z uživatelského vstupu a vypíše všechny násobky toho čísla menší než 100.
+- Můžete předpokládat, že na vstupu dostanete kladné celé číslo menší než 100 (nemusíte kontrolovat vstup).
+- Nápověda: využijte while cyklus a podmínku
+- **Deadline** 22. 11. 2020 23:59
+
