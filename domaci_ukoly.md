@@ -45,4 +45,9 @@
 - Diagram na vstupu načte 3 čísla (délky stran trojúhelníku) a vypíše o jaký typ trojúhelníku se jedná (rovnostranný, rovnoramenný, obecný)
 - **Deadline** 8. 11. 2020 23:59
 
+### BONUS: Rozklad na prvočísla - 8 bodů
+- Napište program v pythonu, který načte číslo ze vstupu a vypíše jeho rozklad na prvočísla.
+- Výstup bude na jednom řádku, čísla oddělená mezerami a seřazená od nejmenšího po největší.
+- Např. pro vstup "5" bude výstup "5", pro "12" bude výstup "2 2 3", pro "60" bude "2 2 3 5".
+- **Deadline** 22. 11. 2020 23:59
 
