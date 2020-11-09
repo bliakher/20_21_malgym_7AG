@@ -51,5 +51,8 @@
 - řešení domácích úkolů
 - podmínky, složené podmínky
 
-
+#### 8. hodina - 9. 11. 2020 - OH
+- řešení domácího úkolu
+- while cyklus
+- FizzBuzz
 
