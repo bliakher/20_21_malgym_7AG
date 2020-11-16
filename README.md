@@ -56,3 +56,7 @@
 - while cyklus
 - FizzBuzz
 
+#### 9. hodina - 16. 11. 2020 - OH
+- while cyklus
+- for cyklus
+
