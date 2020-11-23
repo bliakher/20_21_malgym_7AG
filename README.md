@@ -60,3 +60,6 @@
 - while cyklus
 - for cyklus
 
+#### 10. hodina - 23. 11. 2020 - OH
+- test na nečisto - cykly
+- for cyklus - range
