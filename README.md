@@ -63,3 +63,13 @@
 #### 10. hodina - 23. 11. 2020 - OH
 - test na nečisto - cykly
 - for cyklus - range
+
+#### 11. hodina - 30. 11. 2020 - OH
+- test
+- cykly - for, while
+- pole - úvod
+
+#### 12. hodina - 7. 12. 2020
+- pole - jednoduché úlohy
+- hledání maxima v poli
+
