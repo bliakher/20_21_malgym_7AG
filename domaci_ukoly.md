@@ -57,3 +57,10 @@
 - Nápověda: využijte while cyklus a podmínku
 - **Deadline** 22. 11. 2020 23:59
 
+### 8. Index - 7 bodů
+- Napište program, který bude mít fungovat jako funkce index() pro pole.
+- Máte v programu nějaké pole čísel a chcete zjistit, na které pozici se nachází nějaký prvek. Načtěte od uživatele číslo a vypište jeho pozici v poli (pozor, indexujeme od nuly). Pokud prvek v poli není, vypiše -1.
+- Pro pole `[1, 3, 5, 4, 7]` a vstup 5 bude výstup 2, pro vstup 4 bude výstup 3 a pro vstup 17 bude výstup -1.
+- **Deadline** dle dohody
+
+
