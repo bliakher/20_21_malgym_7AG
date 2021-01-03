@@ -73,3 +73,6 @@
 - pole - jednoduché úlohy
 - hledání maxima v poli
 
+#### 13. hodina - 14. 12. 2020 - OH
+- pole - funkce count, index
+- hledání maxima v poli
