@@ -76,3 +76,10 @@
 #### 13. hodina - 14. 12. 2020 - OH
 - pole - funkce count, index
 - hledání maxima v poli
+
+#### 14. hodina - 4. 1. 2021 - OH
+- práce ve skupinách
+- pole - opakování
+- hledání druhého největšího prvku
+
+
