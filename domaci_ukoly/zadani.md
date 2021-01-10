@@ -67,7 +67,7 @@
 - Úkolem je vzít části kódu, které jsme programovali na hodinách a jako domácí úkoly, přepracovat je na funkce a spojit do jednoho programu.
 - Program dostane na vstupu posloupnost kladných čísel ukončenou -1. Načtěte posloupnost a uložte ji do pole. Poté budete opět číst čísla ze vstupu, dokud nedostanete -1. Pro každé načtené číslo (hledaný prvek pole) vypište první index, na kterém se prvek v poli nachází (-1 pokud tam není). 
 - Cílem je dosáhnout hezké funkční dekompozice (rozdělení na funkce) - každá funkce dělá pouze jednu věc. Např. zvlášť funkce pro načítání, funkce index, funkce, která to celé dá dohromady.
-
+- **Deadline** 24. 1. 2021 23:59
 
 
 
