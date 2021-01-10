@@ -61,7 +61,13 @@
 - Napište program, který bude mít fungovat jako funkce index() pro pole.
 - Máte v programu nějaké pole čísel a chcete zjistit, na které pozici se nachází nějaký prvek. Načtěte od uživatele číslo a vypište jeho pozici v poli (pozor, indexujeme od nuly). Pokud prvek v poli není, vypiše -1.
 - Pro pole `[1, 3, 5, 4, 7]` a vstup 5 bude výstup 2, pro vstup 4 bude výstup 3 a pro vstup 17 bude výstup -1.
-- **Deadline** dle dohody
+- **Deadline** 20. 12. 2020 23:59
+
+### 9. Funkce - 6 bodů
+- Úkolem je vzít části kódu, které jsme programovali na hodinách a jako domácí úkoly, přepracovat je na funkce a spojit do jednoho programu.
+- Program dostane na vstupu posloupnost kladných čísel ukončenou -1. Načtěte posloupnost a uložte ji do pole. Poté budete opět číst čísla ze vstupu, dokud nedostanete -1. Pro každé načtené číslo (hledaný prvek pole) vypište první index, na kterém se prvek v poli nachází (-1 pokud tam není). 
+- Cílem je dosáhnout hezké funkční dekompozice (rozdělení na funkce) - každá funkce dělá pouze jednu věc. Např. zvlášť funkce pro načítání, funkce index, funkce, která to celé dá dohromady.
+
 
 
 
