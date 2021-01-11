@@ -82,4 +82,6 @@
 - pole - opakování
 - hledání druhého největšího prvku
 
-
+#### 15. hodina - 11. 1. 2021 - OH
+- hledání druhého největšího prvku
+- funkce - syntax, příklady
