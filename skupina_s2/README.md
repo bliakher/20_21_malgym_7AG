@@ -86,3 +86,12 @@
 - hledání druhého největšího prvku
 - funkce - syntax, příklady
 
+#### 16. hodina - 18. 1. 2021 - OH
+- funkce - procvičování
+- práce ve skupinách
+
+#### 17. hodina - 25. 1. 2021 - OH
+- anketa o předmětu
+- diskuze, shrnutí pololetí
+
+
