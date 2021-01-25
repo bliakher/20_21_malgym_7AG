@@ -21,3 +21,6 @@
 
 ### Co jsme dělali?
 
+#### 1. hodina - 1. 2. 2021 - OH
+- úvodní informace
+- úlohy na zamyšlení
