@@ -2,6 +2,11 @@
 
 *Úlohy k zamyšlení ve skupinkách. Proberte spolu, prodiskutujte. Po každé úloze se sejdeme opět všichni dohromady a probereme řešení.*
 
+#### Sdílené tabule - odkazy
+- 1. skupina: https://awwapp.com/b/uhs8xncc4cymu/
+- 2. skupina: https://awwapp.com/b/uwwmd9fwha9dv/
+- 3. skupina: https://awwapp.com/b/ulu2suwqeqjzw/
+
 ### Polička s dvoubarevnými krabicemi
 - Na polici je řada krabic dvou barev - červené a modré.
 - Chci krabice přerovnat tak, aby zleva byly jen červené a zprava jen modré.
