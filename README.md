@@ -24,3 +24,11 @@
 #### 1. hodina - 1. 2. 2021 - OH
 - úvodní informace
 - úlohy na zamyšlení
+
+#### 2. hodina - 8. 2. 2021 - OH
+- úlohy k zamyšlení
+- vývojové diagramy
+
+#### 3. hodina - 15. 2. 2021 - OH
+- řešení domácího úkolu
+- vývojové diagramy
