@@ -9,3 +9,10 @@
 - Sepsané řešení prosím odevzdejte do Microsoft Teams skupiny
 - Stačí vyřešit jednu z úloh (druhá je za 2 bonusové body).
 - **Deadline** 13. 2. 2021 23:59
+
+### 2. Vývojový diagram - 5 bodů
+- Na vstupu jsou zadaná **různá** 3 čísla - a, b, c. Úkolem je vymyslet algoritmus, který čísla seřadí podle velikosti (vzestupně).
+- Algoritmus zakreslete do **vývojového diagramu**. Doporučuju si ho nejdřív sepsat v bodech.
+- Snažte se, aby jednotlivé kroky algoritmu byly co nejjednodušší - jako porovnání 2 čísel. "Vyberu nejmenší číslo" není elementární krok.
+- Nápověda: zamyslete se, kolik je možných výstupů (seřazení 3 čísel)
+- **Deadline** 27. 2. 2021 23:59
