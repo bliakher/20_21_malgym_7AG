@@ -18,7 +18,7 @@
 - **Deadline** 27. 2. 2021 23:59
 
 ### 3. Python (instalace) - 1 bod
-- Nainstalujte si Python na svůj domácí počítač podle návodu[Python - instalace.pdf](https://github.com/bliakher/malgym_7AG/files/6060134/Python.-.instalace.pdf)
+- Nainstalujte si Python na svůj domácí počítač podle návodu [Python - instalace.pdf](https://github.com/bliakher/malgym_7AG/files/6060134/Python.-.instalace.pdf)
 - Pošlete mi screenshot textového editoru IDLE (měl by se nainstalovat automaticky s Pythonem).
 - V případě problémů mi pište.
 - **Deadline** 7. 3. 2021 23:59
