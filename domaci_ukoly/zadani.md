@@ -16,3 +16,9 @@
 - Snažte se, aby jednotlivé kroky algoritmu byly co nejjednodušší - jako porovnání 2 čísel. "Vyberu nejmenší číslo" není elementární krok.
 - Nápověda: zamyslete se, kolik je možných výstupů (seřazení 3 čísel)
 - **Deadline** 27. 2. 2021 23:59
+
+### 3. Python (instalace) - 1 bod
+- Nainstalujte si Python na svůj domácí počítač podle návodu[Python - instalace.pdf](https://github.com/bliakher/malgym_7AG/files/6060134/Python.-.instalace.pdf)
+- Pošlete mi screenshot textového editoru IDLE (měl by se nainstalovat automaticky s Pythonem).
+- V případě problémů mi pište.
+- **Deadline** 7. 3. 2021 23:59
