@@ -32,3 +32,9 @@
 #### 3. hodina - 15. 2. 2021 - OH
 - řešení domácího úkolu
 - vývojové diagramy
+
+#### 4. hodina - 1. 3. 2021 - OH
+- základní model počítače
+- procesor, paměť, instrukce
+
+
