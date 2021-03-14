@@ -37,4 +37,10 @@
 - základní model počítače
 - procesor, paměť, instrukce
 
+#### 5. hodina - 8. 3. 2021 - OH
+- HW - opakování
+- Python - interaktivní příkazová řádka
+- vstup a výstup
+
+
 
