@@ -22,3 +22,8 @@
 - Pošlete mi screenshot textového editoru IDLE (měl by se nainstalovat automaticky s Pythonem).
 - V případě problémů mi pište.
 - **Deadline** 7. 3. 2021 23:59
+
+### 4. Dělitelnost dvěma - 4 body
+- Napište program v pythonu, který načte číslo od uživatele a vypíše, jestli je dělitelné dvěma.
+- V úloze byste měli použít podmínku (if), nejspíš se bude hodit operace % (modulo).
+- **Deadline** 21. 3. 2020 23:59
