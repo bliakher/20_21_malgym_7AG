@@ -42,5 +42,19 @@
 - Python - interaktivní příkazová řádka
 - vstup a výstup
 
+#### 6. hodina - 15. 3. 2021 - OH
+- test HW
+- Python - podmínky
+
+#### 7. hodina - 22. 3. 2021 - OH
+- řešení domácího úkolu
+- složené podmínky
+- FizzBuzz
+
+#### 8. hodina - 29. 3. 2021 - OH
+- opakování podmínek
+- cykly - while
+- FizzBuzz
+
 
 
