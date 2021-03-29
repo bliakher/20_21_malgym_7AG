@@ -27,3 +27,8 @@
 - Napište program v pythonu, který načte číslo od uživatele a vypíše, jestli je dělitelné dvěma.
 - V úloze byste měli použít podmínku (if), nejspíš se bude hodit operace % (modulo).
 - **Deadline** 21. 3. 2020 23:59
+
+### 5. Řazení čísel - 5 bodů
+- Napište program, který na vstupu dostane 3 čísla a vypíše je na výstup seřazená vzestupně.
+- Inspirujte se vývojovým diagramem z 2.DÚ.
+- **Deadline** 11. 4. 2020 23:59
