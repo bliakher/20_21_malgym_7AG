@@ -31,6 +31,15 @@ elif x > 0:
 else:
     # else
 ```
+- compound conditions
+``` python
+if a < 0 and a % 2 == 0:
+    # something
+    
+if a < 0 or a % 2 == 0:
+    # something
+```
+
 
 ### Cycles - Cykly
 - while
