@@ -56,5 +56,10 @@
 - cykly - while
 - FizzBuzz
 
+#### 9. hodina - 12. 4. 2021 - OH
+- opakování podmínek
+- cykly - while
+- pořadník na úřadě
+
 
 
