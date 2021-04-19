@@ -26,9 +26,15 @@
 ### 4. Dělitelnost dvěma - 4 body
 - Napište program v pythonu, který načte číslo od uživatele a vypíše, jestli je dělitelné dvěma.
 - V úloze byste měli použít podmínku (if), nejspíš se bude hodit operace % (modulo).
-- **Deadline** 21. 3. 2020 23:59
+- **Deadline** 21. 3. 2021 23:59
 
 ### 5. Řazení čísel - 5 bodů
 - Napište program, který na vstupu dostane 3 čísla a vypíše je na výstup seřazená vzestupně.
 - Inspirujte se vývojovým diagramem z 2.DÚ.
-- **Deadline** 11. 4. 2020 23:59
+- **Deadline** 11. 4. 2021 23:59
+
+### 6. Násobky čísla - 5 bodů
+- Napište program v Pythonu, který načte číslo z uživatelského vstupu a vypíše všechny násobky toho čísla menší než 100.
+- Můžete předpokládat, že na vstupu dostanete kladné celé číslo menší než 100 (nemusíte kontrolovat vstup).
+- Nápověda: využijte cyklus a podmínku
+- Deadline 2. 5. 2021 23:59
