@@ -34,7 +34,7 @@
 - **Deadline** 11. 4. 2021 23:59
 
 ### 6. Násobky čísla - 5 bodů
-- Napište program v Pythonu, který načte číslo z uživatelského vstupu a vypíše všechny násobky toho čísla menší než 100.
+- Napište program v Pythonu, který načte číslo z uživatelského vstupu a vypíše všechny násobky toho čísla menší nebo rovné 100.
 - Můžete předpokládat, že na vstupu dostanete kladné celé číslo menší než 100 (nemusíte kontrolovat vstup).
 - Nápověda: využijte cyklus a podmínku
 - Deadline 2. 5. 2021 23:59
