@@ -11,7 +11,7 @@ for i in range(1, 2):
 
 <details>
 <summary>Řešení</summary>
-```
+``` python
 1
 ```
   range(min, max) - cyklus začíná minimu a končí na maximum - 1
