@@ -37,4 +37,14 @@
 - Napište program v Pythonu, který načte číslo z uživatelského vstupu a vypíše všechny násobky toho čísla menší nebo rovné 100.
 - Můžete předpokládat, že na vstupu dostanete kladné celé číslo menší než 100 (nemusíte kontrolovat vstup).
 - Nápověda: využijte cyklus a podmínku
-- Deadline 2. 5. 2021 23:59
+- **Deadline** 2. 5. 2021 23:59
+
+### 7. Pozdravy - 5 bodů
+- Máte v programu dvě pole stejné délky - name a surname - na i-té pozici v polích je křestní jméno (pole name), respektivě příjmení (surmane) jednoho uživatele. př.: name = \["Anna", "Emma", "Max"], surmane = \["Karenina", "Stone", "Brod"]. 
+- Napište program, který pozdraví všechny uživatele celým jménem. tj.:
+```
+Hello, Anna Karenina!
+Hello, Emma Stone!
+Hello, Max Brod!
+```
+- **Deadline** 23. 5. 2021 23:59
