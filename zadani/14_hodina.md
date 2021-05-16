@@ -13,8 +13,9 @@ numbers = [3, 14, 1.5, 9, 2]
 
 <details>
 <summary>Řešení</summary>
-first = numbers\[0]
-last = numbers\[4]
+  
+  first = numbers[0]
+  last = numbers[4]
 
 </details>
 
