@@ -15,6 +15,7 @@ numbers = [3, 14, 1.5, 9, 2]
 <summary>Řešení</summary>
   
   first = numbers[0]
+  
   last = numbers[4]
 
 </details>
