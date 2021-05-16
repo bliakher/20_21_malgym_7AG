@@ -24,5 +24,9 @@ numbers = [3, 14, 1.5, 9, 2]
 
 <details>
 <summary>Řešení</summary>
-
+  
+  last = numbers[len(numbers) - 1]
+  
+  last = numbers[-1]
+  
 </details>
