@@ -36,7 +36,6 @@ else:
 
 # v pythonu syntaxe in
 
-
 if otazka in pritomni:
   print("Přítomen")
 
