@@ -48,3 +48,11 @@ Hello, Emma Stone!
 Hello, Max Brod!
 ```
 - **Deadline** 23. 5. 2021 23:59
+
+### 8. Nejdražší auto - 6 bodů
+- V programu máme pole s informacemi o autech. V poli je vždy nejdřív značka auta, a potom jeho cena.
+- Vypište název nejdražší značky.
+- auta = ["Mazda", 300000 , "Ferrari", 4500000]
+- **Deadline** 6. 6. 2021 23:59
+
+
